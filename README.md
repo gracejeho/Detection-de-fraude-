@@ -56,14 +56,4 @@ Les résultats montrent que certaines métriques comme la centralité de proximi
 
 ---
 
-## 👩🏽‍💻 Réalisé par
-
-- **Grace TEKAM**  
-- Projet académique réalisé dans le cadre de [nom du cours ou de l’établissement].
-
----
-
-## 📬 Contact
-
-Pour toute question ou suggestion, n’hésitez pas à me contacter sur [ton mail professionnel ou LinkedIn].
 
