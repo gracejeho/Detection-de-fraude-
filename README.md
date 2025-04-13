@@ -1,7 +1,7 @@
 # 🔍 Détection de fraude dans un réseau social
 
 Ce projet vise à détecter les utilisateurs frauduleux dans un réseau social simulé à l'aide de graphes.  
-Nous avons modélisé un réseau social de 100 utilisateurs, analysé leurs interactions, puis entraîné un modèle d'apprentissage automatique pour prédire les comportements frauduleux.
+Nous avons modélisé un réseau social, analysé leurs interactions, puis entraîné un modèle d'apprentissage automatique pour prédire les comportements frauduleux.
 
 ---
 
@@ -39,13 +39,7 @@ Nous avons modélisé un réseau social de 100 utilisateurs, analysé leurs inte
    - Matrice de confusion
    - Précision, rappel, F1-score
 
----
 
-## 📁 Contenu du projet
-
-- `Projet_Graphes_Python_Presentable.ipynb` : notebook principal avec tout le code, les visualisations et les résultats.
-- `data/` *(à créer si besoin)* : dossier pour stocker les jeux de données (si externes).
-- `README.md` : ce fichier.
 
 ---
 
